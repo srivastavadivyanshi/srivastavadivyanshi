@@ -1,7 +1,4 @@
-## Hi , I'm Divyanshi
 
-I'm a computer science studnt at bbdnitm,lucknow
- Data Science student at bbdnitm,lucknow
 <h1 align="left">Hey 👋 I'm Divyanshi</h1>
 
 ###
